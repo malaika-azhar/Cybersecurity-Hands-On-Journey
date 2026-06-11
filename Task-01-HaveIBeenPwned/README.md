@@ -15,7 +15,7 @@ by cybersecurity professionals to check for known data breaches.
 - Result: Clean — no pwnage detected
 
 ## Screenshot
-![HIBP Result](../assets/task01-hibp-result.png)
+n![HIBP Result](../assets/task01-hibp-result.png)
 
 ## Key Takeaway
 A clean result doesn't mean you're fully safe. HIBP only 
